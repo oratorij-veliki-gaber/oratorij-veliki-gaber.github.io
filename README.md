@@ -1,3 +1,3 @@
 # oratorij-veliki-gaber
 
-Spletna stran
+Spletna stran za izvedno adventnega oratorija 2021, na daljavo
